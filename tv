@@ -9,6 +9,12 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 https://bdix.proximitybd.xyz/buka.php?id=live-02
 #EXTINF:0 tvg-id="ext" group-title="TOFFEE X BDIX IPTV HUB",T SPORTS LIVE 4
 https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA HD
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA FHD
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 #EXTINF:0 tvg-id="ZeeBangla.in" group-title="TOFFEE X BDIX IPTV HUB",ZEE BANGLA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_bangla
 #EXTINF:-0 tvg-id="d2tb9mb4" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="39" group-title="Nayeem's BDCast",Zee Bangla HD
@@ -103,12 +109,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:0 tvg-id="ext" group-title="KOLKATA",STAR JALSHA HD
 http://103.151.60.174/manikvai@hoichoi24.com
-#EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=z5fjQ-wajcF6375UZeksFQ&expires=1724638754&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA HD
-http://tv.cloudcdn.me/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
-#EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA FHD
-http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="KOLKATA",COLORS BANGLA
 http://tv.cloudcdn.me/live.ts?channelId=92&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:0 tvg-id="ext" group-title="KOLKATA",COLORS BANGLA HD
@@ -143,8 +144,6 @@ http://tv.cloudcdn.me/live.ts?channelId=113&uid=13603&deviceMac=00:1A:79:64:B4:A
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KOLKATA",BANGLA PLUS
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="KIDS",DURONTO TV
 http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:0 tvg-id="ext" group-title="KIDS",RONGEEN TV
