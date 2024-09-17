@@ -20,9 +20,9 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_bangla
 #EXTINF:-0 tvg-id="d2tb9mb4" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="39" group-title="Nayeem's BDCast",Zee Bangla HD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTINF:-0 tvg-id="q921cn70" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/FRDK6FxY/Zee-Bangla.png" tvg-chno="47" group-title="Nayeem's BDCast",Zee Bangla
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=q921cn70&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
 #EXTINF:-0 tvg-id="2oxadfdx" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="48" group-title="Nayeem's BDCast",Zee Bangla HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=q921cn70&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="TOFFEE X BDIX IPTV HUB",ZEE BANGLA CINEMA
@@ -216,8 +216,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 #EXTINF:0 tvg-id="StarPlus.uk" group-title="INDIA HINDI",STAR PLUS HD
 http://217.20.112.199/starplushd/index.m3u8
-#EXTINF:0 tvg-id="ZeeTV.uk" group-title="INDIA HINDI",ZEE TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="INDIA HINDI",JALSHA movies
+ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8
 #EXTINF:0 tvg-id="LifeOk.in" group-title="INDIA HINDI",STAR BHARAT HD
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:0 tvg-id="ext" group-title="INDIA HINDI",SONY SAB HD
@@ -289,7 +289,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",ZEE ANIMOL CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/index.m3u8
 
 
 
