@@ -14,7 +14,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA HD
 http://tv.cloudcdn.me/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
 #EXTINF:0 tvg-id="ZeeBangla.in" group-title="KOLKATA",ZEE BANGLA FHD
-http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
+http://217.20.112.199/zeebangla/index.m3u8
 #EXTINF:0 tvg-id="ZeeBangla.in" group-title="TOFFEE X BDIX IPTV HUB",ZEE BANGLA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_bangla
 #EXTINF:-0 tvg-id="d2tb9mb4" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="39" group-title="Nayeem's BDCast",Zee Bangla HD
