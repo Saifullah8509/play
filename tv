@@ -108,10 +108,10 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=90ac2b2eef686eadac56bb177d3447c82f57cc50-e3b2c1631c9212acb91f7850275f2f5a-1775748619-1775745019
 
 #EXTINF:-28 tvg-logo="https://tint.creativemarket.com/4_VTDTL7a7oknEzPs7irCUhI0VgDc-bGANTxGf6PeGg/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzM3NS8zNzU5LzM3NTk3MDcvcHJldmlldzAwMS1vLmpwZw?1513763230" group-title="BANGLA", SPORTS 
-http://180.94.28.28:8097/STAR-SPORTS-1/tracks-a1/index.fmp4.m3u8?token=c1b8e34bf0c06f0ebc39821da8a5b54f24698df9-a2b59df9ebbe846e833b0cca0f3f6b5c-1775749058-1775745458
+http://180.94.28.28:8097/STAR-SPORTS-1/index.fmp4.m3u8?token=28a7494fbafb667765c9caeee9c3096eabcf733f-91db2aa5525c07fc91aa7d75be923552-1775749701-1775746101
 
 #EXTINF:-28 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="BANGLA", SPORTS 
-http://180.94.28.28:8097/Star-Sports-Select-1/tracks-a1/index.fmp4.m3u8?token=762fcb67961412ddc0c3fbfcad4b6a4320d92115-6946d331a562fd8f55b9a9c9c541e288-1775749282-1775745682
+http://180.94.28.28:8097/Star-Sports-2/index.fmp4.m3u8?token=8e3e66e007ebe050a8f8bd2675b6f52f6d653d85-6f17ea9b32691427611b43523cfadac6-1775749813-1775746213
 
 #EXTINF:-28 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="BANGLA", SPORTS 
 http://180.94.28.28:8097/Star-Sports-2/tracks-a1/index.fmp4.m3u8
