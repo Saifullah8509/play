@@ -111,7 +111,7 @@ http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=90ac2b2eef686eadac56bb17
 http://180.94.28.28:8097/STAR-SPORTS-1/tracks-a1/index.fmp4.m3u8?token=c1b8e34bf0c06f0ebc39821da8a5b54f24698df9-a2b59df9ebbe846e833b0cca0f3f6b5c-1775749058-1775745458
 
 #EXTINF:-28 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="BANGLA", SPORTS 
-http://180.94.28.28:8097/STAR-SPORTS-1/tracks-a1/index.fmp4.m3u8
+http://180.94.28.28:8097/Star-Sports-Select-1/tracks-a1/index.fmp4.m3u8?token=762fcb67961412ddc0c3fbfcad4b6a4320d92115-6946d331a562fd8f55b9a9c9c541e288-1775749282-1775745682
 
 #EXTINF:-28 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="BANGLA", SPORTS 
 http://180.94.28.28:8097/Star-Sports-2/tracks-a1/index.fmp4.m3u8
