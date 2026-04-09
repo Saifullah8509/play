@@ -105,8 +105,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 #EXTINF:-28 tvg-logo="https://tint.creativemarket.com/4_VTDTL7a7oknEzPs7irCUhI0VgDc-bGANTxGf6PeGg/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzM3NS8zNzU5LzM3NTk3MDcvcHJldmlldzAwMS1vLmpwZw?1513763230" group-title="BANGLA", SPORTS 
-http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8
-
+http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=90ac2b2eef686eadac56bb177d3447c82f57cc50-e3b2c1631c9212acb91f7850275f2f5a-1775748619-1775745019
 
 #EXTINF:-28 tvg-logo="https://tint.creativemarket.com/4_VTDTL7a7oknEzPs7irCUhI0VgDc-bGANTxGf6PeGg/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzM3NS8zNzU5LzM3NTk3MDcvcHJldmlldzAwMS1vLmpwZw?1513763230" group-title="BANGLA", SPORTS 
 http://180.94.28.28:8097/Star-Sports-Select-1/tracks-a1/index.fmp4.m3u8
