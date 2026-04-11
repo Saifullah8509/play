@@ -164,17 +164,17 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tint.creativemarket.com/4_VTDTL7a7oknEzPs7irCUhI0VgDc-bGANTxGf6PeGg/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzM3NS8zNzU5LzM3NTk3MDcvcHJldmlldzAwMS1vLmpwZw?1513763230" group-title="SPORTS", SPORTS 
-http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=e1af1cdb0ef4900b2809dc3fe673f0c224865f5f-caf97f13c61a8ea44653cbedebcfd87b-1775792954-1775789354
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 #EXTINF:-2 tvg-logo="https://tint.creativemarket.com/4_VTDTL7a7oknEzPs7irCUhI0VgDc-bGANTxGf6PeGg/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzM3NS8zNzU5LzM3NTk3MDcvcHJldmlldzAwMS1vLmpwZw?1513763230" group-title="SPORTS", SPORTS 
 http://180.94.28.28:8097/STAR-SPORTS-1/index.fmp4.m3u8?token=28a7494fbafb667765c9caeee9c3096eabcf733f-91db2aa5525c07fc91aa7d75be923552-1775749701-1775746101
 #EXTINF:-3 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="SPORTS", SPORTS 
-http://180.94.28.28:8097/Star-Sports-2/index.fmp4.m3u8?token=8e3e66e007ebe050a8f8bd2675b6f52f6d653d85-6f17ea9b32691427611b43523cfadac6-1775749813-1775746213
+https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=http://180.94.28.28:8097/STAR-SPORTS-1/index.m3u8
 #EXTINF:-4 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="SPORTS", SPORTS 
 http://180.94.28.28:8097/Star-Sports-2/index.fmp4.m3u8?token=e19fd50fcdbedd90aab220882baed5da67b83982-9c3a81e730aa4cb6de36896c8b3f3dad-1775793037-1775789437
 #EXTINF:-5 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="SPORTS", SPORTS
-http://180.94.28.28:8097/Star-Sports-Select-1/index.fmp4.m3u8?token=8c25262af65a69d9e8628f04d220d81b5854ee28-ee024c6011c162334bfcf28fa044e6bb-1775750039-1775746439
+https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://game.denver69.fun/Series/willow_eng.m3u8
 #EXTINF:-6 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="SPORTS", SPORTS
-http://10.99.99.99:8082/EUROSPORTS.HD/index.m3u8?token=973d03b951d48e84ea5fed81bc183d1dec1405d8-c874612517547536939e0f97360a5d67-1775759146-1775748346&remote=no_check_ip
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.m3u8
 
 
 
