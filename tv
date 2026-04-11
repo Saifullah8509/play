@@ -175,6 +175,8 @@ http://180.94.28.28:8097/Star-Sports-2/index.fmp4.m3u8?token=e19fd50fcdbedd90aab
 https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://game.denver69.fun/Series/willow_eng.m3u8
 #EXTINF:-6 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="SPORTS", SPORTS
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.m3u8
+#EXTINF:-7 tvg-logo="https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg?semt=ais_hybrid&w=740&q=80" group-title="SPORTS", SPORTS
+http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=8b46e9b08e602e25ff42f893d3d5295270f28501-92346cfe2f7eac006cd2b7d645d8aef4-1775874298-1775870698
 
 
 
